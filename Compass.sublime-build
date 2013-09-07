@@ -1,0 +1,5 @@
+{
+  "selector": "source.sass, source.scss",
+  "shell": true,
+  "shell_cmd": "${packages}/CompassBuild/build_compass.sh ${project_path:${folder}}"
+}
